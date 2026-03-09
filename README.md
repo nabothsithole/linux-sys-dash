@@ -19,7 +19,7 @@ A lightweight, real-time system monitoring dashboard written in pure Bash. No ex
 
 ### 1. Download the script
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/sys_dash.sh
+curl -O https://raw.githubusercontent.com/nabothsithole/linux-sys-dash/main/sys_dash.sh
 ```
 
 ### 2. Make it executable
