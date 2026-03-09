@@ -10,6 +10,7 @@ A lightweight, real-time system monitoring dashboard written in pure Bash. No ex
 - 📂 **Storage Tracking**: Monitor root partition and a specific folder size.
 - 🔝 **Top Processes**: See the top 5 CPU-consuming tasks.
 - 🌐 **Network Stats**: Monitor RX/TX data on your active interface.
+- ⛽ **Fuel Tracker (ZIM)**: Real-time ZERA fuel prices for Diesel & Petrol with auto-sync.
 
 ## Screenshots
 ![Dashboard Screenshot 1](screenshots/Screenshot%20from%202026-03-09%2009-27-02.png)
